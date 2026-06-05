@@ -24,8 +24,7 @@ ___
 
 If you use `ggshroom` in a publication or public project, please cite the package.
 
-Zenodo citation and badge coming soon.
-
+[![DOI](https://zenodo.org/badge/1260597989.svg)](https://doi.org/10.5281/zenodo.20561468)
 ___
 
 ## Example usage
