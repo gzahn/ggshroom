@@ -22,9 +22,9 @@ ___
 
 ## Citation
 
-If you use `ggshroom` in a publication or public project, please cite the package.
+If you use `ggshroom` in a publication or public project and feel like citing it:
 
-<a href="https://doi.org/10.5281/zenodo.20561468"><img src="https://zenodo.org/badge/1260597989.svg" alt="DOI"></a>___
+[![DOI](https://zenodo.org/badge/1260597989.svg)](https://doi.org/10.5281/zenodo.20561468)
 
 ## Example usage
 
