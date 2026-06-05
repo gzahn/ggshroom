@@ -1,0 +1,35 @@
+ggshroom bundled icon notice
+
+The PNG files in inst/extdata/ are bundled icon assets used by geom_shroom().
+
+Per-file provenance has not been recovered from embedded PNG metadata. During
+packaging, the files were inspected and confirmed to contain only a short GIMP
+comment plus standard PNG metadata, but no source URL, creator name, or license
+statement.
+
+Maintainer action required before public redistribution:
+- Record the original source, creator, license, and download date for each icon.
+- Record any edits made to the assets, such as resizing, background cleanup, or
+  color correction.
+
+At the time of this package snapshot, the icon filenames are:
+- amanita.png
+- amf.png
+- black.png
+- blue.png
+- brown.png
+- chicken.png
+- chytrid.png
+- enoki.png
+- fusarium.png
+- morel.png
+- neurospora.png
+- physarum.png
+- purple.png
+- rhizopus.png
+- schizo.png
+- shiitake.png
+- white.png
+- yeast1.png
+- yeastbud.png
+

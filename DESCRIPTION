@@ -1,0 +1,17 @@
+Package: ggshroom
+Title: Fungal Icons for ggplot2
+Version: 0.1.0
+Author: Geoff Shroom [aut, cre]
+Maintainer: Geoff Shroom <geoff@localhost>
+Authors@R: person("Geoff", "Shroom", email = "geoff@localhost", role = c("aut", "cre"))
+Description: Provides fungal and fungus-like icons for use in ggplot2 plots through a simple ggimage-compatible geom.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    ggplot2,
+    ggimage
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3

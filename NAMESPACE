@@ -1,0 +1,4 @@
+import(ggimage)
+import(ggplot2)
+export(geom_shroom)
+export(list_shrooms)
