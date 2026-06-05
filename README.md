@@ -4,6 +4,8 @@ Tiny companion to [`ggimage`](https://github.com/YuLab-SMU/ggimage) for plotting
 
 `ggshroom` depends on `ggimage` internally and wraps `ggimage::geom_image()` with a simple fungus-friendly interface.
 
+<img src="inst/sticker.png" alt="ggshroom hex sticker" width="300" />
+
 ___
 
 ## Installation
